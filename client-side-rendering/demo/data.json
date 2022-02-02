@@ -1,0 +1,28 @@
+[
+    {
+        "title": "First Article",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur iure, veniam eligendi tenetur ipsa rerum inventore tempora ipsam ipsum voluptates laborum neque quod voluptate nostrum aut deserunt accusantium quam maxime cumque assumenda quis dolorum quae fuga. Voluptate quod voluptatibus minus maiores possimus est facilis id soluta?",
+        "author": "John Smith",
+        "color" : "red",
+        "comments": []
+    },
+
+    {
+        "title": "Second Article",
+        "content": " Animi similique, corporis tenetur nam reiciendis quas vitae dolorem nulla totam nostrum temporibus inventore dolor, assumenda facere commodi blanditiis. Ratione, recusandae tempora rerum, eveniet officiis in error omnis, quo eius explicabo aperiam maxime beatae eligendi itaque sed corporis nesciunt numquam ut nobis nam sunt ullam fuga facilis. ",
+        "author": "Peter Smith",
+        "color" : "blue",
+        "disabled" : true,
+        "comments": []
+
+    },
+
+    {
+        "title": "Third Article",
+        "content": "Esse a id maxime, adipisci obcaecati possimus",
+        "author": "Anne Smith",
+        "color" : "green",
+        "comments": []
+
+    }
+]
